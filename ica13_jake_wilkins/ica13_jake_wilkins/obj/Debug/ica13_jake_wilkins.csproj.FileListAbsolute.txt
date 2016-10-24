@@ -1,0 +1,6 @@
+C:\Users\Rean\Desktop\C# scripts\ica13_jake_wilkins\ica13_jake_wilkins\bin\Debug\ica13_jake_wilkins.exe.config
+C:\Users\Rean\Desktop\C# scripts\ica13_jake_wilkins\ica13_jake_wilkins\bin\Debug\ica13_jake_wilkins.exe
+C:\Users\Rean\Desktop\C# scripts\ica13_jake_wilkins\ica13_jake_wilkins\bin\Debug\ica13_jake_wilkins.pdb
+C:\Users\Rean\Desktop\C# scripts\ica13_jake_wilkins\ica13_jake_wilkins\obj\Debug\ica13_jake_wilkins.csprojResolveAssemblyReference.cache
+C:\Users\Rean\Desktop\C# scripts\ica13_jake_wilkins\ica13_jake_wilkins\obj\Debug\ica13_jake_wilkins.exe
+C:\Users\Rean\Desktop\C# scripts\ica13_jake_wilkins\ica13_jake_wilkins\obj\Debug\ica13_jake_wilkins.pdb
