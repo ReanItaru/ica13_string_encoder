@@ -29,13 +29,21 @@ namespace ica13_jake_wilkins
                 //encode string, #'s + 10 unicode value, char -1 letter, CHAR +1 letter, whitespace = *, others remain same
                 foreach(char ch in encode)
                 {
+                    switch (ch)
+                    {
+                        case (char.IsWhiteSpace(ch ,0)):
+                            encode = encode.Replace(ch, '*');
+                            break;
+                    }
+
                     //char.IsWhiteSpace(encode,ch);
                     //encoded = encode.Replace(char.IsWhiteSpace(ch),'*');
                     //Console.WriteLine("Encoded string: {0}", encoded);
                 }
 
                 //display newly encoded string
-                Console.WriteLine("Encoded string: {0}", encoded);
+                Console.WriteLine("\nEncoded string: {0}", encoded);
+
                 //ask if user would like to encode again, works on upper and lower 'yes', exit on anything else
                 Console.Write("\nEncode another string? yes or no: ");
                 askReRun = Console.ReadLine();
